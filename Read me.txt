@@ -1,0 +1,1 @@
+This code was written using pycharm and packages like the kivvy is needed to run the program successfully on your device.
